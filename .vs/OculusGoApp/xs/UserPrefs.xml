@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{416DBF4F-8B71-9A55-4186-56B9B91D1EED}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SystemUtility.cs">
+    <Files>
+      <File FileName="Assets/SystemUtility.cs" Line="15" Column="6" />
+      <File FileName="Assets/OVRCameraRigScript.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OculusGoApp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="SystemUtility.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="OculusGoApp" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6928a852-0425-4147-8fa9-48803f69b2b3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
